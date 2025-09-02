@@ -17,7 +17,7 @@ Hi, I'm **Kasra Sohrab**, a Systems & AI MS CS Student interested in systems and
 ## Past & Present Experiences
 
 ### Research
-- **Systems for Artificial Intelligence Lab** (Oct 2023 - Present) 
+- **[Systems for Artificial Intelligence Lab](https://gatech-sysml.github.io)** Advisor: Alexey Tumanov (Oct 2023 - Present) 
 	- Core contributor to [Project Vajra](https://project-vajra.github.io), an open-source, next-gen C++ inference engine, at different points leading threads on different serving aspects: from P/D Disag to KV Cache to Simulation. 
 	- Working towards first author publication for my MS thesis
 
@@ -29,7 +29,12 @@ Hi, I'm **Kasra Sohrab**, a Systems & AI MS CS Student interested in systems and
 
 ### Teaching
 
-- **Georgia Tech Head TA** (May 2021 - Present) - Teaching Assistant for Automata & Complexity and Data Structures & Algorithms at different points
+- **Georgia Tech Head TA** (May 2021 - Present) - [Teaching Assistant](https://www.gatech.edu/news/2024/04/11/student-excellence-honored-annual-event) for Automata & Complexity and Data Structures & Algorithms at different points
+
+### Eduction 
+
+- **Georgia Tech** (May 2020 - Present) - Bachelors and Masters
+	- Minor in Business and Computing from [Denning T&M Program](https://www.scheller.gatech.edu/centers-and-initiatives/steven-a-denning-tech-and-management-program/index.html)
 
 ## Get In Touch
 
