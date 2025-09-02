@@ -1,37 +1,43 @@
 ---
 title: "About Me"
-date: 2024-09-02
-description: "Learn more about kasohrab - Software Engineer and Developer"
+date: 2025-09-02
+description: "Learn more about Kasra Sohrab - Systems & AI MS CS Student"
 ---
 
 # About Me
 
-Hi, I'm **kasohrab** 👋
-
-I'm a passionate software engineer and developer with a love for creating innovative solutions and building meaningful technology. Welcome to my personal corner of the internet!
-
-## What I Do
-
-- **Software Development**: Building robust applications and systems
-- **Open Source**: Contributing to projects and sharing knowledge with the community
-- **Problem Solving**: Tackling complex technical challenges with creative solutions
-- **Continuous Learning**: Always exploring new technologies and methodologies
+Hi, I'm **Kasra Sohrab**, a Systems & AI MS CS Student interested in systems and artificial intelligence.
 
 ## My Interests
 
-When I'm not coding, you can find me:
-- Exploring new programming languages and frameworks
-- Reading about emerging technologies
-- Contributing to open-source projects
-- Sharing knowledge through writing and mentoring
+- **Systems Programming**: Abstractions and low-level optimizations
+- **Machine Learning & AI**: Deep learning, natural language processing, and AI applications
+- **Open Source**: Contributing to projects and building meaningful solutions
+
+## Past & Present Experiences
+
+### Research
+- **Systems for Artificial Intelligence Lab** (Oct 2023 - Present) 
+	- Core contributor to [Project Vajra](https://project-vajra.github.io), an open-source, next-gen C++ inference engine, at different points leading threads on different serving aspects: from P/D Disag to KV Cache to Simulation. 
+	- Working towards first author publication for my MS thesis
+
+### Professional
+- **Amazon Web Services** (May 2025 - Aug 2025) - Software Engineer Intern, RDS for SQL Server Availability. 
+- **Amazon Web Services** (May 2024 - Aug 2024) - Software Engineer Intern, RDS for SQL Server Durability.
+- **Keysight Technologies** (May 2023 - Aug 2023) - Software Engineer Intern.
+- **NCR** (May 2022 - Aug 2022) - Software Engineer Intern.
+
+### Teaching
+
+- **Georgia Tech Head TA** (May 2021 - Present) - Teaching Assistant for Automata & Complexity and Data Structures & Algorithms at different points
 
 ## Get In Touch
 
-I'm always excited to connect with fellow developers, potential collaborators, or anyone interested in technology. Feel free to reach out!
+For more details please reach out!
 
 - **GitHub**: [kasohrab](https://github.com/kasohrab)
 - **LinkedIn**: [kasohrab](https://linkedin.com/in/kasohrab)
-- **Email**: [kasohrab@example.com](mailto:kasohrab@example.com)
+- **Email**: [kasra.sohrab@gmail.com](mailto:kasra.sohrab@gmail.com)
 
 ---
 
