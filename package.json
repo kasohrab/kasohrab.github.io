@@ -1,0 +1,26 @@
+{
+  "name": "kasohrab-website",
+  "version": "1.0.0",
+  "description": "Personal website and blog for kasohrab",
+  "scripts": {
+    "dev": "hugo server --port 1313 --buildDrafts --bind 0.0.0.0",
+    "build": "hugo --minify",
+    "clean": "rm -rf public",
+    "preview": "hugo server --environment production --port 1314",
+    "new:post": "hugo new post/",
+    "mod:update": "hugo mod get -u && hugo mod tidy",
+    "mod:clean": "hugo mod clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kasohrab/kasohrab.git"
+  },
+  "author": "Kasra Sohrab",
+  "license": "MIT",
+  "keywords": [
+    "hugo",
+    "static-site",
+    "blog",
+    "personal-website"
+  ]
+}

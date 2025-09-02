@@ -1,0 +1,14 @@
+github:
+  weight: 1
+  url: "https://github.com/kasohrab"
+  icon: "fab fa-github"
+
+linkedin:
+  weight: 2
+  url: "https://linkedin.com/in/kasohrab"
+  icon: "fab fa-linkedin"
+
+email:
+  weight: 3
+  url: "mailto:kasohrab@example.com" 
+  icon: "fas fa-envelope"

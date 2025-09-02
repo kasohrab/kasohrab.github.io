@@ -1,0 +1,7 @@
+baseURL = 'https://kasohrab.github.io/'
+languageCode = 'en-us'
+title = 'Kasra Sohrab'
+
+[module]
+[[module.imports]]
+path = "github.com/D-Sketon/hugo-theme-reimu"

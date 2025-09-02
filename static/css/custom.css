@@ -1,0 +1,67 @@
+/* Minimal custom styling - let material theme handle colors from banner image */
+
+/* Work with theme's banner system */
+.banner {
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+/* Semi-transparent content containers for readability over background */
+#container,
+#wrap,
+#content,
+.content,
+.main-content,
+.post-card,
+.card,
+.article,
+.post {
+    background: rgba(255, 255, 255, 0.9) !important;
+    backdrop-filter: blur(8px) !important;
+    border-radius: 12px !important;
+    margin: 10px !important;
+    padding: 20px !important;
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37) !important;
+    border: 1px solid rgba(255, 255, 255, 0.18) !important;
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] #container,
+[data-theme="dark"] #wrap,
+[data-theme="dark"] #content,
+[data-theme="dark"] .content,
+[data-theme="dark"] .main-content,
+[data-theme="dark"] .post-card,
+[data-theme="dark"] .card,
+[data-theme="dark"] .article,
+[data-theme="dark"] .post {
+    background: rgba(30, 30, 30, 0.9) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Header/navigation transparency */
+header,
+.header,
+.navbar,
+#header {
+    background: rgba(255, 255, 255, 0.8) !important;
+    backdrop-filter: blur(10px) !important;
+}
+
+[data-theme="dark"] header,
+[data-theme="dark"] .header,
+[data-theme="dark"] .navbar,
+[data-theme="dark"] #header {
+    background: rgba(30, 30, 30, 0.8) !important;
+}
+
+/* Clean - no longer needed since we fixed the root CSS variable */
+
+/* Mobile responsiveness for background */
+@media (max-width: 768px) {
+    body {
+        background-attachment: scroll;
+        background-size: cover;
+    }
+}

@@ -1,0 +1,95 @@
+# Basic site configuration
+author: "Kasra Sohrab"
+description: "Kasra Sohrab's personal website and blog"
+keywords: ["Kasra Sohrab", "kasohrab", "blog", "personal", "software", "engineering", "systems", "AI"]
+
+# Site settings
+title: "Kasra Sohrab"
+subtitle: "Systems & AI MS CS Student"
+
+# Avatar settings
+avatar: "me.jpg"
+gravatar: false
+
+# Social links
+social:
+  github: https://github.com/kasohrab
+  linkedin: https://linkedin.com/in/kasohrab  
+  email: kasra.sohrab@gmail.com
+
+# Theme settings
+darkmode:
+  enable: true
+  auto: true
+
+# Icon settings (required by theme)
+icon:
+  pack: "fas"
+  name: "home"
+
+# Code highlighting
+highlight:
+  enable: true
+  theme: "github"
+
+# Comments (disabled for now)  
+comment:
+  enable: false
+
+# Footer settings
+footer:
+  since: 2024
+  icp: ""
+
+# Navigation menu
+nav:
+  showTitle: true
+
+# Home page settings
+home:
+  profile: true
+  posts: true
+  
+# RSS settings
+rss:
+  enable: true
+
+# Banner/background image
+banner: "images/background.jpg"
+
+# Fix the CSS variables for consistent theme colors
+internal_theme:
+  light:
+    "--red-0": "#666666"  # Gray for better contrast instead of extracted light color
+    "--red-1": "#87CEEB"  # Sky blue for loading animation and accents
+    "--red-2": "#5DADE2"  # Medium sky blue
+    "--red-3": "#3498DB"  # Darker sky blue
+  dark:
+    "--red-0": "#333333"  # Dark gray for dark mode
+    "--red-1": "#3B82F6"  # Bright blue for dark mode
+    "--red-2": "#60A5FA"  # Medium blue for dark mode  
+    "--red-3": "#93C5FD"  # Light blue for dark mode
+
+# Enable material theme to extract colors from banner image  
+material_theme:
+  enable: true
+
+# Navigation menu configuration
+menu:
+  - name: home
+    url: ""
+    icon: # default taichi icon
+  - name: archives
+    url: "archives"
+    icon:
+  - name: about
+    url: "about"
+    icon:
+
+# Disable custom cursor (TODO: Re-enable later)
+reimu_cursor:
+  enable: false
+
+# Injector for custom CSS
+injector:
+  head_end: '<link rel="stylesheet" href="/css/custom.css">'
